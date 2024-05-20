@@ -1,2 +1,2 @@
 # adoptionapp
-A website for adopting cats in Pécs
+A website for adopting and sponsoring cats in Pécs
